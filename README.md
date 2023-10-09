@@ -1,6 +1,5 @@
 import time
 
-
 # pergunta - - - -
 
 print('-------------\nsisteme de login\n-------------')
