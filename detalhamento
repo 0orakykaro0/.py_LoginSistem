@@ -1,0 +1,9 @@
+Oque é o código?
+
+Este código é um sistema de login desenvolvido na linguagem python, interligado a um banco de dados, que no caso foi um bloco de notas.
+O objetivo desse projeto foi meramente por fins educativos. 
+Foram usados conhecimente de:
+  while true
+  condicionais if,else
+  funcções
+  entendimento de uso com uso manuntenção de bloco de notas
